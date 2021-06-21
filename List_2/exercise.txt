@@ -1,0 +1,11 @@
+<block><random>
+<block><id: item 1001 condition 1001>In Internetforen diskutierten Eltern, bevor sie mit den Lehrern sprachen.</id></block>
+<block><id: item 1002 condition 1002>Beide Einrichtungen wurden von Freiwilligen betrieben, wobei es bei der Buchhaltung haperte.</id></block>
+<block><id: item 1003 condition 1003>Das Fruchtfleisch war gelblichweiß, bevor die Frucht reif war.</id></block>
+<block><id: item 1004 condition 1004>Das Kind klagte über Schmerzen, während die Mutter Milchreis kochte.</id></block>
+<block><id: item 1001 condition 1005>Das Paar hatte vier Kinder, aber wollte nur zwei.</id></block>
+<block><id: item 1002 condition 1006>Das Team wollte jedes Spiel gewinnen, während es dem Trainer egal war.</id></block>
+<block><id: item 1003 condition 1007>Der Bundesrat schien sich zu treffen, während die Journalisten vor der Türe warteten.</id></block>
+<block><id: item 1004 condition 1008>Die UN ruften Myanmar dazu auf, die Verfolgung der Rohingya zu beenden.</id></block>
+<block><id: item 1004 condition 1009>Der Schwerpunkt änderte sich, während der Radrennfahrer zur Seite kippte.</id></block>
+</block>

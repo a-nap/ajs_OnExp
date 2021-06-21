@@ -1,0 +1,10 @@
+<block><id: item 1244 condition 100 gender none verb none adjective none conjunction wobei list 2 order 1>Tausende Menschen waren umgekommen, wobei das Frühwarnsystem das Erdbeben doch vorhergesagt hatte.</id></block>
+<block><id: item 1195 condition 100 gender none verb none adjective none conjunction aber list 2 order 2>Die Rasse brauchte viel Auslauf, aber das störte Mara nicht.</id></block>
+<block><id: item 1046 condition 100 gender M verb none adjective none conjunction nachdem list 2 order 3>Leon putzte die Fenster, nachdem Marcel ihn dazu aufgefordert hatte.</id></block>
+<block><id: item 41 condition 2 gender M verb war adjective selbstlos conjunction weil list 2 order 4>Jannik war selbstlos, und zwar weil die Kameraden alle zusammenhielten.</id></block>
+<block><id: item 1007 condition 100 gender F verb none adjective none conjunction während list 2 order 5>Birgit räumte das Zimmer auf, während ihre Schwester die Küche putzte.</id></block>
+<block><id: item 1161 condition 100 gender none verb none adjective none conjunction nachdem list 2 order 6>Die Eigentümer verkauften das Unternehmen, nachdem sie dazu gedrängt wurden.</id></block>
+<block><id: item 1235 condition 100 gender none verb none adjective none conjunction während list 2 order 7>Keiner übernahm die Organisation, während letztes Jahr alle den Chefposten haben wollten.</id></block>
+<block><id: item 1005 condition 100 gender M verb none adjective none conjunction aber list 2 order 8>Benjamin fuhr Schlitten, aber es hatte zu wenig Schnee.</id></block>
+<block><id: item 28 condition 3 gender F verb verhielt sich adjective kritisch conjunction um list 2 order 9>Petra verhielt sich kritisch, und zwar um die Azubis herauszufordern.</id></block>
+<block><id: item 1151 condition 100 gender none verb none adjective none conjunction aber list 2 order 10>Die Altenpfleger fühlten sich benachteiligt, aber werden jetzt von der Gewerkschaft vertreten.</id></block>

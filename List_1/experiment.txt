@@ -1,0 +1,10 @@
+<block><id: item 1056 condition 100 gender F verb none adjective none conjunction bevor list 1 order 1>Melina arbeitete an einem Roman, bevor sie ein Gedicht schrieb.</id></block>
+<block><id: item 1108 condition 100 gender M verb none adjective none conjunction während list 1 order 2>Ein Bürger beklagte sich darüber, während sich die anderen darüber freuten.</id></block>
+<block><id: item 1054 condition 100 gender M verb none adjective none conjunction nachdem list 1 order 3>Maximilian unterrichtete am Gymnasium, nachdem er nach Mainz gezogen war.</id></block>
+<block><id: item 39 condition 3 gender M verb verhielt sich adjective reserviert conjunction um list 1 order 4>Jakob verhielt sich reserviert, und zwar um seine Gefühle besser zu verbergen.</id></block>
+<block><id: item 1168 condition 100 gender none verb none adjective none conjunction bevor list 1 order 5>Die Fortschritte waren sehr deutlich, bevor die Wachstumsrate einbrach.</id></block>
+<block><id: item 1208 condition 100 gender none verb none adjective none conjunction bevor list 1 order 6>Die Unterrichtssprachen waren Deutsch und Englisch, bevor eine dritte Unterrichtssprache dazukam.</id></block>
+<block><id: item 1188 condition 100 gender none verb none adjective none conjunction aber list 1 order 7>Die Kostenplanung war nicht nachvollziehbar, aber das störte den Bauherren nicht.</id></block>
+<block><id: item 1199 condition 100 gender none verb none adjective none conjunction wobei list 1 order 8>Die Senioren trauten sich kaum vor die Tür, wobei die Polizei Entwarnung gegeben hatte.</id></block>
+<block><id: item 25 condition 1 gender F verb war adjective ignorant conjunction um list 1 order 9>Sabine war ignorant, und zwar um ihren Mann absichtlich zu verärgern.</id></block>
+<block><id: item 1007 condition 100 gender F verb none adjective none conjunction während list 1 order 10>Birgit räumte das Zimmer auf, während ihre Schwester die Küche putzte.</id></block>
